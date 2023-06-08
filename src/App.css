@@ -1,0 +1,28 @@
+@import '@blueprintjs/core/lib/css/blueprint.css';
+@import '@blueprintjs/icons/lib/css/blueprint-icons.css';
+@import '@blueprintjs/table/lib/css/table.css';
+
+.App {
+  text-align: center;
+}
+.tablee {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  margin: 5%;
+}
+.help {
+  text-align: start;
+  margin-left: 100px;
+  line-height: 1.8em;
+}
+.help li {
+  margin-bottom: 15px;
+}
+.help-container {
+  padding: 50px;
+  /* background: rgb(19 201 186 / 9%); */
+  font-size: medium;
+}
+
